@@ -1,0 +1,63 @@
+h1{
+    color: #3f2f2f;
+    text-align: center;
+    margin-bottom: 36px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    /* margin-bottom: 25px; */
+    /* flex: 1; */
+    /* outline: none; */
+    background-color: transparent;
+    border: 2px solid #e6b7eca1;
+    border-radius: 30px;
+    color: #eee;
+    font-size: 16px;
+    border-width: 10px;
+}
+
+#listTasks{
+    color: #3f2f2f;
+    margin-bottom: 36px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: space-around;
+}
+
+#contactForm {
+    text-align: center;
+    margin-top: 30px;
+  
+}
+
+button{
+    background-color: #ad5875a1;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+input#submit{
+    background-color: #ad5875a1;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+input#task{
+    width: 50%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ad5875a1;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
